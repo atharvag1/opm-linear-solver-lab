@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 #include "baseline_standalone.hpp"
 #include "bsr_reader.hpp"
 #include "bsr_ilu0_generate.hpp"

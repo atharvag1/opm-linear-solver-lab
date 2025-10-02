@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 #include "baseline_standalone.hpp"
 
 void gpu_pbicgstab(solver_data *bsr, double tolerance,float maxit)

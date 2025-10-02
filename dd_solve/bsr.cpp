@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 #include "bsr.hpp"
 #include "vec.hpp"
 #include "mat.hpp"

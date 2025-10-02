@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 #ifndef bsr_graph_hpp
 #define bsr_graph_hpp
 #include <stdbool.h>

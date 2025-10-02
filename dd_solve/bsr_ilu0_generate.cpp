@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 #include "baseline_standalone.hpp"
 
 void preconditioner(solver_data *bsr)

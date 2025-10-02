@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 #include "baseline_standalone.hpp"
 #include "bsr_reader.hpp"
 void init_host(solver_data *bsr, std::ostringstream &indir, int mb, int nd, int rpd, int nnzb, int block_dim) 

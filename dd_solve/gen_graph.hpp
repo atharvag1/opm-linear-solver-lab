@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 //#ifndef gen_graph_h
 //#define gen_graph_h
 #pragma once

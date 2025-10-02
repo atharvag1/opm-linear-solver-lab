@@ -1,3 +1,7 @@
+//**************************************************************************
+//* Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+//**************************************************************************
+
 void mat_show(const double*, int m, int n, const char *name);
 
 void mat_identity(double *A, int m, int n);
